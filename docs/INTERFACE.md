@@ -12,3 +12,15 @@
 
 ## Execution
 Triggered automatically on push or scheduled workflow.
+
+# Interface Documentation
+
+## Inputs
+- GitHub repository source code
+
+## Outputs
+- OpenSSF Scorecard results
+- Security findings
+
+## Execution
+Triggered by GitHub Actions on push or schedule.
