@@ -9,3 +9,10 @@ Thank you for contributing.
 - Create a branch
 - Make changes
 - Open a pull request
+
+ ## Contribution requirements
+- Write clean, readable code
+- Use descriptive commit messages
+- Keep changes small and focused
+- Update documentation when needed
+- Test changes before submitting
