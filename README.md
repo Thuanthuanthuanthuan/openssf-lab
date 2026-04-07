@@ -6,6 +6,13 @@
 ## Description
 This project demonstrates how to use OpenSSF Scorecard to analyze and improve the security posture of a GitHub repository.
 
+## Description
+This project demonstrates how to use OpenSSF Scorecard to analyze and improve repository security.
+
+## Problem it solves
+It helps identify security risks in GitHub projects and shows how to fix them.
+
+
 ## Problem it solves
 Many open-source projects lack visibility into security risks. This project shows how to identify and fix those risks using automated tools.
 
