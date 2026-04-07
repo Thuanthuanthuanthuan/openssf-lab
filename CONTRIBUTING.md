@@ -16,3 +16,6 @@ Thank you for contributing.
 - Keep changes small and focused
 - Update documentation when needed
 - Test changes before submitting
+
+- ## Testing policy
+All new functionality should include appropriate tests where applicable.
