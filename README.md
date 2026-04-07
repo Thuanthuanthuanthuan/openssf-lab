@@ -1,1 +1,10 @@
-# openssf-lab
+
+# OpenSSF Lab Project
+
+This project is used for learning OpenSSF Scorecard and security best practices.
+
+## How to run
+This is a sample project.
+
+## License
+MIT
