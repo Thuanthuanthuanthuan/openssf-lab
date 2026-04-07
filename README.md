@@ -1,7 +1,8 @@
 
 # OpenSSF Lab Project
 
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12391/badge)](https://www.bestpractices.dev/projects/12391)
+  [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12391/badge)](https://www.bestpractices.dev/projects/12391)
+
 ## Description
 This project demonstrates how to use OpenSSF Scorecard to analyze and improve the security posture of a GitHub repository.
 
